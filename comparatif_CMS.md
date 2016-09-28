@@ -19,4 +19,17 @@ Les CMS Forum:
 - SMF
 
 *Prestashop* est un CMS pour creer des sites commercants.
- 
+
+ CMS | Type | OS |
+--------- | ---- | ---- |
+Wordpress | Blog | ✓
+Dotclear | Blog | ✓
+Finwe| Blog | ✓
+Joomla! | Portail | ✓
+Drupal | Portail | ✓
+Concrete5 | Portail | ✓
+Xoops | Portail | ✓
+FluxBB | Forum | ✓
+phpBB | Forum | ✓
+SMF | Forum | ✓
+Sharepoint | Portail | ✗
