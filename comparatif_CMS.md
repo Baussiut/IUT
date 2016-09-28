@@ -32,4 +32,6 @@ Xoops | Portail | ✓
 FluxBB | Forum | ✓
 phpBB | Forum | ✓
 SMF | Forum | ✓
+Magento | E-commerce | ✓
+Prestashop | E-commerce | ✓ 
 Sharepoint | Portail | ✗
