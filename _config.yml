@@ -1,0 +1,6 @@
+url: flatfile/
+key: value
+title: Site Jekyll
+footer: Crée par Romain Baussart-2016/2017
+collections: 
+    -products

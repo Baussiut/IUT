@@ -1,0 +1,10 @@
+body{
+    background-color: azure;
+}
+header{
+    background-size: cover;
+}
+.wrapper{
+    margin:  0 auto;
+    max-width: 45 rem;
+}
